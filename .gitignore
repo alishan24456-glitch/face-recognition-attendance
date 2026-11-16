@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output*.mp4
+output*_summary.txt
+output*_attendance.log
+*.task
+face_recognition_sface_2021dec.onnx
